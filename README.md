@@ -2,7 +2,7 @@
 
 Basic 3D basketball simutation using React-Three-Fibre
 
-<img src="images/demo.gif"  width="300"/>
+<img src="images/demo.gif"  width="500"/>
 
 ## To run
 
