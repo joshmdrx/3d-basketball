@@ -2,6 +2,8 @@
 
 Basic 3D basketball simutation using React-Three-Fibre
 
+<img src="images/demo.gif"  width="300"/>
+
 ## To run
 
 ```bash
