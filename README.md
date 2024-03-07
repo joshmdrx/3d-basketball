@@ -1,6 +1,6 @@
 # 3d-basketball
 
-Basic 3D basketball simutation using React-Three-Fibre
+Basic 3D basketball simulation using React-Three-Fibre
 
 <img src="images/demo.gif"  width="500"/>
 
